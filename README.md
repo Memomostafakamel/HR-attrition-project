@@ -17,14 +17,23 @@ Using interactive dashboards, the project analyzes workforce data to uncover pat
 ## 🌟 Project Highlights  
 
 Built an interactive multi-page HR dashboard
+
 Analyzed employee attrition and retention trends
+
 Identified patterns related to:
-Salary and compensation
-Work-life balance
-Job satisfaction
-Performance ratings
-Employee demographics
+
+- Salary and compensation
+
+- Work-life balance
+
+- Job satisfaction
+
+- Performance ratings
+
+- Employee demographics
+
 Created clear KPIs including Attrition Rate and Retention Rate
+
 Designed a custom dashboard layout to improve data storytelling and user experience
 
 
