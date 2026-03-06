@@ -41,9 +41,9 @@ Designed a custom dashboard layout to improve data storytelling and user experie
 
 ## 📂 Files Included  
 
-- HR_Attrition_Dashboard.pbix – Power BI dashboard file
-- HR_Attrition_Dataset.xlsx – Raw and cleaned dataset
-- Dashboard_Design.pdf – Background designs created in Figma
+- HR_Attrition_Dashboard.pbix[Click here to download the report](Hr_attrition.pbix) – Power BI dashboard file
+- HR_Attrition_Dataset.xlsx [Click here to download the data](Dataset.xlsx)– Raw and cleaned dataset
+- Dashboard_Design.pdf [Click here to view the report](Figma_backgrounds.pdf)– Background designs created in Figma
 
 
 <hr/>
